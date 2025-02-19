@@ -1,5 +1,5 @@
 
-# Indian Startup Funding Comprehensive Analysis README
+# Indian Startup Funding Comprehensive Analysis 
 
 ## Overview
 This README provides an in-depth analysis of the Indian Startup Funding dataset, which includes extensive details about investment patterns, investor activity, and startup growth trends within India's dynamic entrepreneurial ecosystem.
